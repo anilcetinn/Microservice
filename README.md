@@ -10,7 +10,7 @@ Microservices Architecture: Each service is developed independently, with clear 
 Docker & Kubernetes: Services are containerized using Docker and deployed using Kubernetes for scalability and fault tolerance.
 
 SQL Server: Persistent data storage with SQL Server, deployed in Kubernetes using Persistent Volume Claims.
-![WhatsApp Image 2024-08-10 at 11 57 03 PM](https://github.com/user-attachments/assets/b5de8585-7c6f-4aba-b7f4-ca06ae0912b1)
+
 
 
 RabbitMQ: Implements asynchronous messaging between services to decouple them and improve performance.
